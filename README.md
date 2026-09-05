@@ -42,15 +42,15 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## Articles
 
 - [Instant Site Updates with On-Demand Revalidation and Directus](https://echobind.com/post/instant-site-updates-with-on-demand-revalidation-and-directus)
-- [Dynamic CMS-driven Redirects with Next.js](https://echobind.com/post/dynamic-cms-driven-redirects)
+- [Dynamic CMS-driven Redirects in Next.js](https://echobind.com/post/dynamic-cms-driven-redirects)
 - [Implementing RBAC Authorization in Next.js - Step-by-Step Guide](https://www.permit.io/blog/how-to-add-rbac-in-nextjs)
 - [Getting Started with Next.js, GraphQL and React Query](https://echobind.com/post/getting-started-with-nextjs-graphl-and-react-query)
-- [Using Next.js with FaunaDB: How to Query the Database from Your App](https://snipcart.com/blog/nextjs-faunadb)
+- [Using Next.js with FaunaDB: How to Query the Database from Your App](https://snipcart.com/blog/next-js-fauna-db)
 - [How to Build a Serverless Next.js Blog with ButterCMS](https://buttercms.com/blog/next-js-cms-tutorial)
 - [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs)
 - [Getting Started with Next.js — Setting Up Your App](https://labs.redantler.com/getting-started-with-next-js-article-one-a1d9780ea9e0#.863nl4wnq)
 - [Getting Started with Next.js — Bringing Data In](https://labs.redantler.com/getting-started-with-next-js-bringing-data-in-bf40558698e2#.twjv5xk5w)
-- [How to build a Next.js React Universal App](https://medium.com/cosmicjs/how-to-build-a-next-js-react-universal-app-e610a0bc2124#.b8ayt9f39)
+- [How to build a Next.js React Universal App](https://medium.com/cosmicjs/next-js-react-universal-app-e610a0bc2124#.b8ayt9f39)
 - [Next on Next.js](https://web.archive.org/web/20170202170122if_/https://jsmantra.com/next-on-next-js-1a134505f346#.bhihzecyc)
 - [Accept payments on your site with nextjs, stripe, and micro](https://hackernoon.com/accept-payments-on-your-site-with-nextjs-stripe-and-micro-371de95b22d5?source=activity---post_recommended)
 - [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://medium.com/@jthegedus/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2)
@@ -62,8 +62,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Realtime data visualization using Next.js and Chart.js](https://pusher.com/tutorials/realtime-data-visualization-nextjs)
 - [Build a chat app with sentiment analysis using Next.js](https://pusher.com/tutorials/chat-sentiment-analysis-nextjs)
 - [Build a realtime table with Next.js](https://pusher.com/tutorials/realtime-tables-nextjs)
-- [SSR blog with Next.js and Prismic.io](https://www.garymeehan.ie/blog/server-side-rendered-blog-with-nextjs-and-prismic)
-- [SEO in Next.js and Prismic](https://www.garymeehan.ie/blog/handling-seo-with-nextjs-and-prismic)
+- [SSR blog with Next.js and Prismic.io](https://www.garymeehan.ie/blog/server-side-rendered-blog-with-nextjs)
+- [SEO in Next.js and Prismic](https://www.garymeehan.ie/blog/handling-seo-with-nextjs-prismic)
 - [SEO in Next.js with next-seo](https://www.garymeehan.ie/blog/seo-in-nextjs-with-next-seo)
 - [Next.js 7](https://nextjs.org/blog/next-7)
 - [Create SSR Next.js websites using GraphQL with Postgres](https://blog.hasura.io/create-next-js-sites-using-graphql-on-postgres-199224ad1a39)
@@ -103,7 +103,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Next Simple Blog](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
 - [phox](https://github.com/herschel666/phox) - Create a static photo blog.
 - [Next Express Bootstrap Boilerplate](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - Boilerplate for a full stack app built using Next, Express, react-bootstrap, SCSS and SSR with eslint.
-- [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
+- [Next Blog Firestore](https://github.com/suevalov/nextjs-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
 - [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
 - [NextJS Redux-Wrapper Material-UI](https://github.com/joaopaulomoraes/nextjs-with-redux-and-material-ui) - 🤓 A boilerplate NextJS with Redux and Material UI.
 - [Staart](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library _and_ minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth.
@@ -118,7 +118,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Oh My Fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
 - [Next-Postgres-With-Typescript](https://github.com/brandontle/next-postgres-with-typescript) - Forum-like fullstack web app with Next 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion
 - [Next.js with Express and Babel](https://github.com/pd-smith/next-express-babel) - An application skeleton for those who want to transpile their Express as well as their Next.js code using Babel.
-- [next-postgres-graphql](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-postgres-graphql) - Create SSR Next.js websites using GraphQL with Postgres (Next.js, Postgres, GraphQL)
+- [next-postgres-graphql](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-postgres-graphql) - Create SSR Next.js websites using GraphQL on Postgres (Next.js, Postgres, GraphQL)
 - [nextjs-mongodb-app](https://github.com/hoangvvo/nextjs-mongodb-app) - Full-fledged app made with Next.JS and MongoDB, with authentication and much more (Next.js 9, MongoDB)
 - [react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
 - [The-Nextjs-starter](https://github.com/novellito/the-nextjs-starter) - typescript + redux + styled-components + react-testing-library + eslint + fontawesome
@@ -145,7 +145,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
 - [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg](https://github.com/vercel/pkg) support.
 - [Next Plugin Graphql](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
-- [Next With Apollo](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
+- [Next With Apollo](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration in Next.js
 - [Next SEO](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
 - [Next-Sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for Next.js
 - [Next UserAgent](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
@@ -160,7 +160,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [next-iron-session](https://github.com/vvo/next-iron-session) - Next.js stateless session utility using signed and encrypted cookies to store data
 - [Next PurgeCSS](https://github.com/lucleray/next-purgecss) - Easily integrate [Purgecss](https://www.purgecss.com/), which helps you remove unused CSS from your bundle.
 - [Next PWA](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js with workbox
-- [flow-middleware](https://github.com/piglovesyou/flow-middleware) - Run any of Express middlewares on Next.js without polluting native objects.
+- [flow-middleware](https://github.com/piglovesyou/flow-middleware) - Run any of Express middlewares in Next.js without polluting native objects.
 - [next-connect](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
 - [next-img](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
 - [next-auth](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
@@ -227,6 +227,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
 - [Lunidex](https://lunidex.app) - Open-source Pokémon workspace built with Next.js, featuring a Pokédex, TCG collection tracking, team building, battle tools, quizzes, and multilingual support.
+- [Wellness Project](https://wellnessproject.ai) - AI fitness, nutrition, and longevity tracker sharing one Next.js App Router codebase across web, iOS, and Android via Capacitor. Server Components, Supabase, and the AI SDK on Vercel.
 
 ## Books
 
